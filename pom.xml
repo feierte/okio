@@ -21,6 +21,7 @@
     <module>okio</module>
     <module>benchmarks</module>
     <module>samples</module>
+    <module>okio-demo</module>
   </modules>
 
   <properties>
